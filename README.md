@@ -26,6 +26,6 @@ Im currently studying at [**42 Porto**](https://www.42porto.com)
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
 </p>
 
-My stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### My stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PolterGeist27)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolterGeist27)](https://github.com/anuraghazra/github-readme-stats)
