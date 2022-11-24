@@ -7,7 +7,7 @@
 <p>
    My name is Diogo Tavares.
    <br>
-  Im currently studying at ###<a href="https://www.42porto.com">42 Porto</a>
+  Im currently studying at <b><a href="https://www.42porto.com">42 Porto</a></b>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
